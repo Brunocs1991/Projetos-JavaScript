@@ -11,3 +11,7 @@ jogoPongNavegador => Jogo pong desenvolvido em javascrit e html para rodar no na
 _____________________________________________________________________________________________________________________________
 
 jogoJakenpoNavegador => Jogo jakenpo desenvolvido em javascrit e html para rodar no navegador
+_____________________________________________________________________________________________________________________________
+
+listaConvidadosNavegador => sistema simples desenvolvido em javascrit e html para rodar no navegador onde ira salvar dados no
+localstorage e recuperar a medida que for usando (não migra dados entre navegadores ou usuarios)
